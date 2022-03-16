@@ -15,7 +15,7 @@ This is a demonstration and experiment kit for PID tuning experiments.
 
 #### Circuit
 
-Circuit design was done using the software named Fritzing, and schematic is available in the PDF format.
+Circuit design was done using the software named Fritzing, and the schematic is available in PDF format.
 
 ![image](https://user-images.githubusercontent.com/11540782/158548865-b33d34e3-3fe2-4efb-8626-4ecc9cf046ce.png)
 
@@ -25,7 +25,7 @@ The complete CAD design is available as a SolidWorks 2016 model from [here](http
 
 #### firmware
 
-The complete firmware is available in [here](https://github.com/NuwanJ/pid-experiment-kit/firmware). The microcontroller used here is *ESP32 Dev Board*. But it is possible to change the firmware a little and use with other microcontroller.
+The complete firmware is available [here](https://github.com/NuwanJ/pid-experiment-kit/firmware). The microcontroller used here is ESP32 Dev Board. But it is possible to change the firmware a little and use it with another microcontroller.
 
 Can change following variables to alter the *kP, kI and kD* constants.
 ```cpp
