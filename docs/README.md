@@ -2,7 +2,7 @@
 
 This is a demonstration and experiment kit for PID tuning experiments.
 
-
+![Image](https://user-images.githubusercontent.com/11540782/159842468-e33c2a17-1b92-4fab-a162-e6a546336e6b.jpg)
 
 ### Folder Structure
 
@@ -36,3 +36,7 @@ double kd = 0.05;
 ```
 
 You can build and upload the firmware using *[PlatformIO](https://platformio.org/)*.
+
+#### Example
+
+![ezgif-1-cd30b49b66](https://user-images.githubusercontent.com/11540782/159843286-3516f3f6-1661-443f-b3f9-af0feb3332eb.gif)
